@@ -1,3 +1,4 @@
+<!--HANDLES FORM SUBMISSION-->
 <?php include 'database.php'; ?>
 
 <?php

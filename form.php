@@ -46,7 +46,6 @@
           <ul class="nav navbar-nav navbar-right">
             <li><a href="index.php">Slang</a></li>
             <li><a href="#">Submit</a></li>
-            <!--<li><a href="contact.php">Contact</a></li>-->
           </ul>
         </div>
       </div>

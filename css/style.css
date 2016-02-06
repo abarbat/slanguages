@@ -1,0 +1,52 @@
+.lang {
+  padding: 20px 20px;
+  font-size: 3em;
+  background: #897C7C;
+  border-radius: 10px;
+  color: #FFF;
+  text-align: center;
+}
+html {
+  overflow-y: scroll;
+}
+#space {
+  margin-bottom: 2em;
+}
+.word {
+  font-size: 2.5em;
+  font-family: serif;
+}
+.pronounce {
+  font-size: 1.1em;
+  letter-spacing: 2px;
+  padding-left: 1em;
+}
+
+p.yes {
+  font-size: .8em;
+  font-weight: bold;
+  padding-top: 1em;
+  text-align: center;
+}
+
+#notes, .translation, #ex {
+  padding-left: 20px;
+  border-left: 2px solid;
+  border-left-color: #C9C9C9;
+  margin-bottom: 0;
+  padding-bottom: .4em;
+
+}
+
+.translation {
+  font-size: 1.5em;
+  margin-bottom: 0;
+  padding-bottom: .4em;
+}
+
+#ex {
+  font-style: italic;
+ }
+ .clearfix {
+   clear: both;
+ }
