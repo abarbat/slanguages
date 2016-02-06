@@ -105,6 +105,8 @@
           success: function(response) {
             $("#fill").html(response);
             $("div.yes").hide();
+            $("#nsfwtoggle").text(
+              "Show NSFW words");
             $("p.yes").text(
               "This word is NSFW"
             );
